@@ -1,0 +1,7 @@
+
+Requirements
+xetex
+fontlin
+
+Compile with:
+xetex cv.tex
